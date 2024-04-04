@@ -1,0 +1,29 @@
+Рандом
+
+count_bots =  4490
+MOVE_SIZE_X =  3
+MOVE_SIZE_Y =  4
+size =  2
+Bot.default_method =  random
+
+Движение по границе
+
+count_bots =  2707
+MOVE_SIZE_X =  1
+MOVE_SIZE_Y =  3
+size =  5
+Bot.default_method =  interesting_right_or_down_or_left_or_up3
+
+Устойчивый ромб
+
+count_bots =  543
+MOVE_SIZE_X =  4
+MOVE_SIZE_Y =  2
+size =  6
+Bot.default_method =  interesting_right_down_or_left_up2
+
+count_bots =  72
+MOVE_SIZE_X =  2
+MOVE_SIZE_Y =  3
+size =  6
+Bot.default_method =  interesting_right_down_or_left_up2

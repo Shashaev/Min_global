@@ -1,0 +1,233 @@
+1
+Большая кристализация
+
+count_bots =  330
+MOVE_SIZE_X =  2
+MOVE_SIZE_Y =  1
+size =  11
+Bot.default_method = Bot.interesting_right_or_down_or_left_or_up
+
+2
+Двойное закручивание
+
+count_bots =  117
+MOVE_SIZE_X =  1
+MOVE_SIZE_Y =  2
+size =  6
+Bot.default_method =  Bot.interesting_right_down_or_left_up
+
+3
+Древо
+
+count_bots =  7050
+MOVE_SIZE_X =  2
+MOVE_SIZE_Y =  1
+size =  3
+Bot.default_method =  Bot.right_down_left_up
+
+.
+.
+
+count_bots =  11142
+MOVE_SIZE_X =  3
+MOVE_SIZE_Y =  1
+size =  2
+Bot.default_method =  Bot.right_down_left_up
+
+4
+Палка
+
+count_bots =  2305
+MOVE_SIZE_X =  3
+MOVE_SIZE_Y =  1
+size =  3
+Bot.default_method = Bot.simple_right_down_left_up
+
+5
+.
+
+count_bots =  11168
+MOVE_SIZE_X =  2
+MOVE_SIZE_Y =  1
+size =  3
+Bot.default_method = Bot.interesting_right_or_down_or_left_or_up4
+
+6
+Мост
+
+count_bots =  26102
+MOVE_SIZE_X =  1
+MOVE_SIZE_Y =  1
+size =  3
+Bot.default_method = Bot.interesting_right_or_down_or_left_or_up4
+
+7
+.
+
+count_bots =  1655
+MOVE_SIZE_X =  4
+MOVE_SIZE_Y =  2
+size =  2
+Bot.default_method =  Bot.right_down
+
+8
+.
+
+count_bots =  17401
+MOVE_SIZE_X =  3
+MOVE_SIZE_Y =  1
+size =  2
+Bot.default_method =  simple_right_down_left_up
+
+9
+.
+
+count_bots =  13
+MOVE_SIZE_X =  3
+MOVE_SIZE_Y =  4
+size =  6
+Bot.default_method =  interesting_right_or_down_or_left_or_up
+
+.
+.
+
+count_bots =  86
+MOVE_SIZE_X =  4
+MOVE_SIZE_Y =  2
+size =  6
+Bot.default_method =  interesting_right_or_down_or_left_or_up2
+
+10
+.
+
+count_bots =  1766
+MOVE_SIZE_X =  2
+MOVE_SIZE_Y =  2
+size =  6
+Bot.default_method =  interesting_right_or_down_or_left_or_up2
+
+11
+.
+
+count_bots =  540
+MOVE_SIZE_X =  3
+MOVE_SIZE_Y =  1
+size =  5
+Bot.default_method =  right_down_left_up
+
+12
+.
+
+count_bots =  8332
+MOVE_SIZE_X =  5
+MOVE_SIZE_Y =  1
+size =  2
+Bot.default_method =  Bot.interesting_right_down_left_up
+
+.
+.
+
+count_bots =  718
+MOVE_SIZE_X =  4
+MOVE_SIZE_Y =  1
+size =  10
+Bot.default_method =  Bot.interesting_right_down_left_up
+
+13
+.
+
+count_bots =  2036
+MOVE_SIZE_X =  4
+MOVE_SIZE_Y =  1
+size =  2
+Bot.default_method =  Bot.interesting_right_down
+
+14
++
+
+count_bots =  3855
+MOVE_SIZE_X =  2
+MOVE_SIZE_Y =  4
+size =  2
+Bot.default_method =  Bot.right_or_down_or_left_or_up
+
+15
++
+
+count_bots =  5236
+MOVE_SIZE_X =  4
+MOVE_SIZE_Y =  4
+size =  2
+Bot.default_method =  Bot.interesting_right_or_down_or_left_or_up2
+
+16
++
+
+count_bots =  1398
+MOVE_SIZE_X =  5
+MOVE_SIZE_Y =  1
+size =  2
+Bot.default_method =  Bot.interesting_right_or_down_or_left_or_up2
+
+17
++
+
+count_bots =  7062
+MOVE_SIZE_X =  1
+MOVE_SIZE_Y =  3
+size =  2
+Bot.default_method =  Bot.right_down_left_up
+
+18
+-
+
+count_bots =  351
+MOVE_SIZE_X =  1
+MOVE_SIZE_Y =  5
+size =  10
+Bot.default_method =  Bot.interesting_right_or_down_or_left_or_up2
+
+19
+-
+
+count_bots =  264
+MOVE_SIZE_X =  2
+MOVE_SIZE_Y =  1
+size =  10
+Bot.default_method =  Bot.simple_right_down_left_up
+
+.
+.
+
+count_bots =  100
+MOVE_SIZE_X =  2
+MOVE_SIZE_Y =  4
+size =  10
+Bot.default_method =  Bot.simple_right_down_left_up
+
+20
+-
+
+count_bots =  2
+MOVE_SIZE_X =  5
+MOVE_SIZE_Y =  3
+size =  10
+Bot.default_method =  Bot.interesting_right_or_down_or_left_or_up
+
+21
+.
+
+count_bots =  416
+MOVE_SIZE_X =  3
+MOVE_SIZE_Y =  3
+size =  10
+Bot.default_method =  Bot.interesting_right_down
+
+22
++
+
+count_bots =  150000
+MOVE_SIZE_X =  1
+MOVE_SIZE_Y =  1
+size =  1
+Bot.default_method =  Bot.interesting_right_down_or_left_up
